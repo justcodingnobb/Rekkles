@@ -5,3 +5,6 @@
 > Do what you want to do.
 
 🇨🇳 China Shanghai 🕹A web developer
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=justcodingnobb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
