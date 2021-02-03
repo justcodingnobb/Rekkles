@@ -6,5 +6,4 @@
 
 🇨🇳 China Shanghai 🕹A web developer
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=justcodingnobb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=justcodingnobb&theme=onedark" />
